@@ -8,6 +8,8 @@ int main() //The main executed code
                                                // newline character and is part of a series of special
                                                 //characters known as escape sequences.
 
+    getchar();                                  // Causes the program to wait till the user hits enter key.
+
     return 0;                                   // It is used to tell that program ended normally.
                                                 // 0 is an integer, and when we wrote int main(),
                                                 // we meant that when the main code ends, the code
